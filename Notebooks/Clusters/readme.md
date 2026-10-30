@@ -2,9 +2,9 @@
 # Lenstronomy cluster modeling
 
 While lenstronomy originated as a modeling tool for galaxy-scale deflector lenses,
-it's versatile structure allows to model galaxy clusters.
+its versatile structure allows to model galaxy clusters.
 
-Recent implementations allows for conjugent point sources likelihoods for multiple source redshfits.
+Recent implementations allows for conjugate point sources likelihoods for multiple source redshifts.
 The lens model families supported by lenstronomy allow for complex and realistic mass distributions in clusters.
 
 Aside from the minimal notebook in this folder, there are additional resources:
